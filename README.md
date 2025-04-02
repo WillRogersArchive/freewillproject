@@ -48,7 +48,7 @@ next: "1919-p-2-prohibition"
 ALL high class Literary Lizzards when they start assembling a book have some fellow that is better known than they are to dash off a kind of an introduction <...>
 ```
 
-## Extended Markdown Format
+### Extended Markdown Format
 This project uses several extended markdown formatting options to accurately represent the nuances in Will Rogers' writings:
 
 Syntax | Description 
