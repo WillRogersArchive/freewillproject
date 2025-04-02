@@ -54,7 +54,7 @@ This project uses several extended markdown formatting options to accurately rep
 Syntax | Description 
 -------|-------------
 `++text++` | Insertion/addition
-`||text||` | Spoiler/hidden text
+`\|\|text\|\|` | Spoiler/hidden text
 `^text^` | Superscript
 `~text~` | Subscript
 
