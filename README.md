@@ -48,6 +48,21 @@ next: "1919-p-2-prohibition"
 ALL high class Literary Lizzards when they start assembling a book have some fellow that is better known than they are to dash off a kind of an introduction <...>
 ```
 
+## Extended Markdown Format
+This project uses several extended markdown formatting options to accurately represent the nuances in Will Rogers' writings:
+
+Syntax | Description 
+-------|-------------
+`++text++` | Insertion/addition
+`||text||` | Spoiler/hidden text
+`^text^` | Superscript
+`~text~` | Subscript
+
+These extensions allow us to:
+- Hide potentially sensitive content with spoiler tags
+- Represent Rogers' work with minimal markup
+- Maintain fidelity to original document formatting
+
 ## Contributing
 
 Contributions to Free Will are welcome, particularly:
